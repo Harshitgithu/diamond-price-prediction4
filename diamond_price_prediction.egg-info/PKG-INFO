@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: diamond-price-prediction
-Version: 0.0.1
-Author: Harshit
-Author-email: sarojpawar347@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: seaborn
-Requires-Dist: flask
